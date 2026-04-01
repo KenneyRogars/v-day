@@ -12,7 +12,7 @@ const gifStages = [
 const noMessages = [
     "No",
     "Are you positive? 🤔",
-    "Baby please... 🥺",
+    "Pookie please... 🥺",
     "If you say no, I will be really sad...",
     "I will be very sad... 😢",
     "Please??? 💔",
@@ -143,7 +143,3 @@ function runAway() {
     noBtn.style.top = `${randomY}px`
     noBtn.style.zIndex = '50'
 }
-
-
-
-do the same thing as last time but change the gifs to snoopie themed but still connected to can you be my suitor and if yes happy
